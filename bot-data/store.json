@@ -1,0 +1,67 @@
+{
+  "economy": {
+    "1076009882236485774": {
+      "emeralds": 260,
+      "rubies": 0,
+      "lastDaily": "2026-05-03T16:30:29.606Z",
+      "lastMessage": "2026-05-03T17:00:43.923Z"
+    },
+    "1454828297778233427": {
+      "emeralds": 1000280,
+      "rubies": 199999,
+      "lastDaily": "2026-05-03T16:29:24.265Z",
+      "lastMessage": "2026-05-03T17:00:07.369Z"
+    },
+    "1319334314256629760": {
+      "emeralds": 20,
+      "rubies": 0,
+      "lastDaily": null,
+      "lastMessage": "2026-05-03T16:29:44.814Z"
+    },
+    "1043149399892688936": {
+      "emeralds": 20,
+      "rubies": 0,
+      "lastDaily": null,
+      "lastMessage": "2026-05-03T16:53:01.667Z"
+    }
+  },
+  "warnings": {
+    "1076009882236485774": [
+      {
+        "id": "BA2608B7",
+        "reason": "not abusing anyone",
+        "moderatorId": "1454828297778233427",
+        "moderatorName": "voidmaster8399_yt",
+        "timestamp": "2026-05-03T16:23:25.158Z"
+      }
+    ],
+    "1454828297778233427": []
+  },
+  "afk": {},
+  "codes": {
+    "ABUSER": {
+      "emeralds": 1000000,
+      "rubies": 199999,
+      "maxUses": 10,
+      "usedBy": [
+        "1454828297778233427"
+      ]
+    }
+  },
+  "customRoles": {},
+  "guildConfig": {},
+  "messageStats": {
+    "1076009882236485774": {
+      "2026": 2,
+      "2026-05-03": 2,
+      "2026-05": 2,
+      "total": 2
+    },
+    "1454828297778233427": {
+      "2026": 2,
+      "2026-05-03": 2,
+      "2026-05": 2,
+      "total": 2
+    }
+  }
+}
